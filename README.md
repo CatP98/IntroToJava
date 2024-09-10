@@ -63,3 +63,51 @@ String[][] anagrams = {
     {"C a t a r i n a", "Aniratac"}
 };
 
+
+## How to Run the Exercises
+
+1. **Clone the Repository:**
+   Clone this repository to your local machine using Git:
+   ```bash
+   git clone <repository-url>
+
+2. **Navigate to the Project Directory: Change directory to the project folder:**
+        cd intro-to-java-exercises
+   
+    Compile the Java Files: Use the Java compiler to compile all the Java files in the project:
+        javac *.java
+
+3. **Run the Individual Programs: Execute each program using the java command.**
+    For example:
+        java StringManipulation
+        java RegexReplacer
+        java LeapYearVerifier
+        java ClosestNeighbours
+        java AnagramChecker
+
+   Each program will print its results to the console. Make sure to run each Java class file individually to see the     output of each exercise.
+
+   
+### Future Improvements
+
+```markdown
+## Future Improvements
+
+- **Enhanced Error Handling:**
+  Add more robust error checking and exception handling to improve program reliability and user experience.
+
+- **User Input Handling:**
+  Modify programs to accept user input for dynamic functionality and more interactive testing.
+
+- **GUI Development:**
+  Implement graphical user interfaces (GUIs) for a more engaging and user-friendly experience.
+
+- **Optimized Algorithms:**
+  Refactor algorithms for efficiency and performance improvements, especially for larger datasets.
+
+- **Extended Functionality:**
+  Add more complex features and enhancements to each exercise, such as additional data processing or support for more varied inputs.
+
+Feel free to contribute by addressing these areas or suggesting new improvements!
+
+
