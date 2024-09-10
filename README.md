@@ -25,7 +25,7 @@ The project consists of five separate exercises, each implemented in its own Jav
 Task: Extract and manipulate parts of a string to print a formatted message using given data.
 
 
-### Exercise 1: Regesx Manipulation
+### Exercise 2: Regex Manipulation
 **File:** RegexReplacer.java
 
 Task: Replace all vowels in a string with the character #.
