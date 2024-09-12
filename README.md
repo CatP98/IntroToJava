@@ -1,6 +1,18 @@
 # Intro to Java Exercises
 This repository contains a series of introductory Java exercises designed to help users get acquainted with Java syntax, its capabilities as both a compiled and interpreted language, and its statically typed nature. The exercises cover fundamental Java programming concepts, including string manipulation, regular expressions, array handling, loops, and conditional statements.
 
+
+## Languages:
+- **Java**
+
+## Frameworks:
+- **None (for this assignment)**
+
+## Tools:
+- **Vim**: For creating and editing `.java` files.
+- **JDK**: To compile and execute Java programs.
+- **Git**: For version control and collaboration.
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Exercises](#exercises)
